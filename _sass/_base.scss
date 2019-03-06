@@ -2,7 +2,9 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: $text-color-secondary;
-    background: $smoky-white;
+    //background: $smoky-white;
+    //allagh
+    background-image: url("http://online-cv/assets/images/rainbow.jpg");
     font-size: 14px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
@@ -81,7 +83,7 @@ p {
     }
     .contact-list {
         .fas, .fab {
-            margin-right: 5px;
+            margin-right: 7px;
             font-size: 18px;
             vertical-align: middle;
         }
