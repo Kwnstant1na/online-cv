@@ -80,10 +80,10 @@ education:
          # - Bullet point
           #- Bullet point
 
-#experiences:
- #   - role: Lead Developer
-  #    time: 2015 - Present
-   #   company: Startup Hubs, San Francisco
+experiences:
+    - role: Social Media Manager 
+      time: 2019 - Present
+      company: IEEE of Ionian University, Corfu-Greece
     #  details: |
      #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -124,12 +124,10 @@ education:
          # - Bullet point
           #- Bullet point
 
-#projects:
- #   title: Projects
-  #  intro: >
-   #   You can list your side projects or open source libraries in this
-    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-     # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    title: Super-Mario
+    intro: >
+      A school project.
 
     #assignments:
      # - title: Velocity
@@ -172,12 +170,12 @@ education:
     #    authors: Edgar T. Irons
      #   conference: "Comm. ACM 4 (1961), 51–55"
 
-#skills:
- #   title: Skills &amp; Proficiency
+skills:
+    title: Skills &amp; Proficiency
 
-  #  toolset:
-   #   - name: Python & Django
-    #    level: 98%
+    toolset:
+    #  - name: Python & Django
+     #   level: 98%
 
      # - name: Javascript & jQuery
       #  level: 98%
@@ -188,8 +186,8 @@ education:
       #- name: HTML5 & CSS
        # level: 95%
 
-      #- name: Ruby on Rails
-       # level: 85%
+      - name: C/C++
+        level: 60%
 
       #- name: Sketch & Photoshop
        # level: 60%
