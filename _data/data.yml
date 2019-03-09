@@ -36,10 +36,10 @@ sidebar:
 
     interests:
       - item: Climbing
-        link:
+        link: "#"
 
       - item: Reading Books
-        link:
+        link: "#"
 
 
 career-profile:
@@ -126,7 +126,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: > A school project.
+    intro: > |
       
 
     assignments:
