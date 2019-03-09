@@ -126,13 +126,13 @@ experiences:
 
 projects:
     title: Projects
-    intro: > Super-Mario
-      A school project.
+    intro: > A school project.
+      
 
-    #assignments:
-     # - title: Velocity
-      #  link: "#hook"
-       # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Super Mario
+        link: "https://github.com/Kwnstant1na/Super-Mario"
+        tagline: "A school project."
 
       #- title: DevStudio
        # link: "#"
