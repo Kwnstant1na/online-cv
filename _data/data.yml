@@ -36,10 +36,10 @@ sidebar:
 
     interests:
       - item: Climbing
-        link: "#"
+        link:
 
       - item: Reading Books
-        link: "#"
+        link:
 
 
 career-profile:
@@ -126,13 +126,12 @@ experiences:
 
 projects:
     title: Projects
-    intro: > |
-      
-
-    assignments:
-      - title: Super Mario
-        link: "https://github.com/Kwnstant1na/Super-Mario"
-        tagline: "A school project."
+    intro: > 
+      A school project.
+      assignments:
+        - title: Super Mario
+          link: "https://github.com/Kwnstant1na/Super-Mario"
+          tagline: "A school project."
 
       #- title: DevStudio
        # link: "#"
@@ -191,6 +190,3 @@ skills:
 
       #- name: Sketch & Photoshop
        # level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
