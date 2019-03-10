@@ -77,7 +77,7 @@ projects:
     assignments:
       - title: Super Mario
         link: "https://github.com/Kwnstant1na/Super-Mario"
-        tagline: "#"
+        tagline: ""
 
 skills:
     title: Skills &amp; Proficiency
