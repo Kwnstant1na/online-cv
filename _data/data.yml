@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Konstantina Gkania
@@ -42,11 +42,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Hello, I'm a third-year student at the Department of Informatics. I spend my free time working
+      on projects for my own satisfaction. I have developed skills in some programming
+      languages, especially in C and C++. I like to work with other people who are interesting to me
+      and i know that i can trust them. Also, i like to participate in competitions, events or seminars
+      related to my interests, for example hackathons, workshops.
 education:
     - degree: BSc in Computer Science
       university: Ionian University
@@ -95,6 +95,9 @@ skills:
 
       - name: HTML5 & CSS
         level: 60%
+        
+      - name: Python
+        level: 50%
 
 
 
