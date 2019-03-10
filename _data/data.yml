@@ -124,16 +124,16 @@ experiences:
          # - Bullet point
           #- Bullet point
 
-projects:
+ Projects:
     title: Projects
-    intro: > |
+    intro: |
       A school project.
       assignments:
         - title: Super Mario
           link: "https://github.com/Kwnstant1na/Super-Mario"
           tagline: "A school project."
 
-      #- title: DevStudio
+    #- title: DevStudio
        # link: "#"
        # tagline: "A responsive website template designed to help web developers/designers market their services."
 
