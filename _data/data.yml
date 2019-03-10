@@ -126,7 +126,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: > 
+    intro: > |
       A school project.
       assignments:
         - title: Super Mario
